@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench by Mc_Jeronimo",
 	"textures": {
-		"0": "item/iron_helmet/station",
-		"1": "item/iron_helmet/stationlocowest",
+		"4": "item/iron_helmet/station",
+		"5": "item/iron_helmet/stationlocowest",
 		"particle": "item/iron_helmet/station"
 	},
 	"elements": [
@@ -10,12 +10,19 @@
 			"from": [-16, 0, 3],
 			"to": [32, 16, 13],
 			"faces": {
-				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
-				"east": {"uv": [0, 0, 0, 0], "texture": "#0"},
-				"south": {"uv": [0, 0, 16, 16], "texture": "#1"},
-				"west": {"uv": [0, 0, 0, 0], "texture": "#0"},
-				"up": {"uv": [0, 0, 16, 10], "texture": "#0", "cullface": "up"},
-				"down": {"uv": [0, 0, 16, 10], "texture": "#0", "cullface": "down"}
+				"north": {"uv": [0, 0, 16, 16], "texture": "#4"},
+				"east": {"uv": [0, 0, 10, 16], "texture": "#4"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#4"},
+				"west": {"uv": [0, 0, 10, 16], "texture": "#4"},
+				"up": {"uv": [0, 0, 16, 10], "texture": "#4"},
+				"down": {"uv": [0, 0, 16, 10], "texture": "#4"}
+			}
+		},
+		{
+			"from": [-13.25, 3, 13.02],
+			"to": [30.75, 13, 13.02],
+			"faces": {
+				"south": {"uv": [0, 6, 16, 15], "texture": "#5"}
 			}
 		}
 	],
