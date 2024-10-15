@@ -7,7 +7,7 @@ Ab sofort findet ihr im [Release Tab](https://github.com/Emilthesleeper/Canstein
 ## Installationsanleitung
 1. Lade den neusten Release oder PreRelease runter, du findest sie [hier](https://github.com/Emilthesleeper/CansteinResource/releases) bei den Releases. Achtung bei den Releases immer nur *Canstein.zip* und *CansteinMenu.zip* herunterladen. Alternativ direkter Download zur neuesten [Entwicklungsversion](https://github.com/Emilthesleeper/CansteinResource/archive/refs/heads/main.zip).
 2. Lege nun die Dateien in deinen resource_packs Ordner, du findest in deinen Minecrafteinstellungen einen Knopf, mit dem er sich automatisch.
-3. Nicht vergessen zu überprüfen, dass die Version mit der [neusten](https://github.com/Emilthesleeper/CansteinResource/releases) übereinstimmt.
+3. Nicht vergessen zu überprüfen, dass die Version mit der [Neusten](https://github.com/Emilthesleeper/CansteinResource/releases) übereinstimmt.
 4. Gefälligst Spaß auf canstein-berlin.de haben.
 
 ## Weitere Infos
