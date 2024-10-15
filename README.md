@@ -10,6 +10,10 @@ Ab sofort findet ihr im [Release Tab](https://github.com/Emilthesleeper/Canstein
 3. Nicht vergessen zu überprüfen, dass die Version mit der [Neuesten](https://github.com/Emilthesleeper/CansteinResource/releases) übereinstimmt.
 4. Gefälligst Spaß auf canstein-berlin.de haben.
 
+## Dependencies/Abhängigkeiten
+ - CIT Resewn (https://www.curseforge.com/minecraft/mc-mods/cit-resewn oder https://modrinth.com/mod/cit-resewn)
+ - *Menu Music (https://modrinth.com/mod/menumusic)*
+
 ## Weitere Infos
 Um mehr über die beiden Resource Packs einzeln zu erfahren, verwende einen der folgenden Links:
  - [Canstein](https://github.com/Emilthesleeper/CansteinResource/tree/Canstein)
