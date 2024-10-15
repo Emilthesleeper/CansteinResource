@@ -11,6 +11,8 @@ Ab sofort findet ihr im [Release Tab](https://github.com/Emilthesleeper/Canstein
 4. Gefälligst Spaß auf canstein-berlin.de haben.
 
 ## Weitere Infos
-Um mehr über die beiden Resource Packs einzeln zu erfahren, kommst du [hier](https://github.com/Emilthesleeper/CansteinResource/tree/Canstein) zum Standard Pack, und [hier](https://github.com/Emilthesleeper/CansteinResource/tree/CansteinMenu) zum Addon für das Menü.
+Um mehr über die beiden Resource Packs einzeln zu erfahren, verwende einen der folgenden Links:
+ - [Canstein](https://github.com/Emilthesleeper/CansteinResource/tree/Canstein)
+ - [CansteinMenu](https://github.com/Emilthesleeper/CansteinResource/tree/CansteinMenu)
 
 ![image](https://github.com/user-attachments/assets/cfd56bdd-911f-4446-b517-70df383834bb)
