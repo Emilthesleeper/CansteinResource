@@ -11,8 +11,8 @@ Ab sofort findet ihr im [Release Tab](https://github.com/Emilthesleeper/Canstein
 4. Gefälligst Spaß auf canstein-berlin.de haben.
 
 ## Dependencies/Abhängigkeiten
- - CIT Resewn (https://www.curseforge.com/minecraft/mc-mods/cit-resewn oder https://modrinth.com/mod/cit-resewn)
- - *Menu Music (https://modrinth.com/mod/menumusic)*
+ - CIT Resewn ([Curseforge](https://www.curseforge.com/minecraft/mc-mods/cit-resewn) oder [Modrinth](https://modrinth.com/mod/cit-resewn))
+ - *Menu Music ([Modrinth](https://modrinth.com/mod/menumusic))*
 
 ## Weitere Infos
 Um mehr über die beiden Resource Packs einzeln zu erfahren, verwende einen der folgenden Links:
