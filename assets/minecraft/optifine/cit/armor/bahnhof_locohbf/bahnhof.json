@@ -1,0 +1,63 @@
+{
+	"credit": "Made with Blockbench by Mc_Jeronimo",
+	"textures": {
+		"4": "item/iron_helmet/station",
+		"5": "item/iron_helmet/stationloco",
+		"particle": "item/iron_helmet/station"
+	},
+	"elements": [
+		{
+			"from": [-16, 0, 3],
+			"to": [32, 16, 13],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 16], "texture": "#4"},
+				"east": {"uv": [0, 0, 10, 16], "texture": "#4"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#4"},
+				"west": {"uv": [0, 0, 10, 16], "texture": "#4"},
+				"up": {"uv": [0, 0, 16, 10], "texture": "#4"},
+				"down": {"uv": [0, 0, 16, 10], "texture": "#4"}
+			}
+		},
+		{
+			"from": [-16, 3, 13.02],
+			"to": [28, 13, 13.02],
+			"faces": {
+				"south": {"uv": [0, 6, 16, 15], "texture": "#5"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [87, -90, 0],
+			"translation": [2.25, 11.25, -1.25]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [87, -90, 0],
+			"translation": [2.25, 11.25, -1.25]
+		},
+		"firstperson_righthand": {
+			"rotation": [20, -90, 0],
+			"translation": [1, 4, -8]
+		},
+		"firstperson_lefthand": {
+			"rotation": [20, -90, 0],
+			"translation": [1, 6, -8.25]
+		},
+		"ground": {
+			"translation": [0, 4.25, 0]
+		},
+		"gui": {
+			"rotation": [10, -20, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"head": {
+			"rotation": [0, 180, 0],
+			"scale": [1, 1, 1.5]
+		},
+		"fixed": {
+			"rotation": [0, 180, 0],
+			"translation": [0, 0, 10.75],
+			"scale": [2.1, 2.1, 2.5]
+		}
+	}
+}
