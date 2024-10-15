@@ -1,0 +1,15 @@
+{
+  "music": {
+    "category": "music",
+    "sounds": [
+      "menumusic:menu1",
+      "menumusic:menu2",
+      "menumusic:menu3",
+      "menumusic:menu4",
+      "menumusic:michaeljackson",
+      "menumusic:yoshi",
+      "menumusic:tarantellanapoletana",
+      "menumusic:flymetothemoon"
+    ]
+  }
+}
